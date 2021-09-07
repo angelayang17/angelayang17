@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @angelayang17
-- 👀 I’m interested in learning anything, really! In particular, I want to expand my skillsets on languages that are helpful for data analysis.
-- 🌱 I’m currently learning Python data analysis libraries and Tableau, and am looking to pick up Dart to explore iOS app development in the future.
+- 👀 I’m interested in learning anything, really! In particular, I want to expand my skillsets on languages that are helpful for data analytics.
+- 🌱 I’m currently learning to do data analysis with Python - in particular, am working with packages such as matplotlib and seaborn. I'm also learning to use softwares like Power BI and Tableau, and am looking to explore environments such as Spark and Hadoop for better management of big data.
 - 💞️ I’m open to opportunities to collaborate on projects involving data analysis and visualization.
 - 📫 Connect with me at https://www.linkedin.com/in/angelayang17/ or drop me an email at angelayang37@gmail.com !
